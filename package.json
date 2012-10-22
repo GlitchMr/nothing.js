@@ -1,0 +1,12 @@
+{
+  "author":       "GlitchMr <glitchmr@myopera.com> (http://glitchmr.github.com)",
+  "name":         "nothing.js",
+  "description":  "",
+  "version":      "v1.0.0",
+  "keywords":     [ "" ],
+  "homepage":     "http://github.com/GlitchMr/nothing.js",
+  "bugs":         { "url": "http://github.com/GlitchMr/nothing.js/issues" },
+  "main":         "./lib/nothing.js",
+  "repository":   { "type": "git", "url": "https://github.com/GlitchMr/nothing.js.git" },
+  "scripts":      { "test": "nodejs test/test" }
+}
